@@ -13,9 +13,10 @@ header{
     background-color: lightgray;
     font-size: 40px;
     padding:20px;
+    position: sticky;
 }
-.class{
-    padding:100px;
+.welcome>h2{
+    padding:30px;
 }
 footer{
     background-color: rgb(48, 41, 41);
@@ -34,15 +35,18 @@ footer{
 #sectmain{
     background-color: aquamarine;
     padding:10%;
-    height:auto;
+    color:antiquewhite;
+    height:450px;
     opacity:0.8;
     object-fit: cover;
     margin:20px;
-    border-radius: 50px;
+    border-radius: 30px;
+    align-items: center;
+    background-image: url("./images/2.jpg");
 }
 .start{
     transition: width 2s, height 2s;
     padding: 3px;
     font-size: large;
-    border: 100px;
+    margin: 20px;
 }
