@@ -12,7 +12,7 @@ header{
     text-align: center;
     background-color: lightgray;
     font-size: 40px;
-    padding-top:10px;
+    padding:20px;
 }
 .class{
     padding:100px;
@@ -20,22 +20,25 @@ header{
 footer{
     background-color: rgb(48, 41, 41);
     text-align:center;
-    height: 50px;
+    height: 70px;
     color:aliceblue;
-    position:relative;
-    clear: both;
-}
-h1{
-    position: -webkit-sticky;
-    font-size: 40px;
-    color: greenyellow;
+    position:fixed;
+    bottom: 0%;
+    width:100vw;
+    padding-top:30px;   
 }
 /* Animation code */
-.landing-pg>h2{
+.welcome>h2{
     font-size: 50px;
 }
-.js{
-    background-image: url(./images/js.jpg);
+#sectmain{
+    background-color: aquamarine;
+    padding:10%;
+    height:auto;
+    opacity:0.8;
+    object-fit: cover;
+    margin:20px;
+    border-radius: 50px;
 }
 .start{
     transition: width 2s, height 2s;
