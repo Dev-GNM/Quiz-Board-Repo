@@ -1,14 +1,45 @@
 *{
     background-color: lightgray);
-    margin: 50px;
+    box-sizing: border-box;
+    margin:0;
 }
 body{
-    align-items: center;
-    border: 2px solid red;
+    height:100%;
+    font-family: Arial, Helvetica, sans-serif;
 }
-p{
-    align-items: center;
+header{
+    height: 70px;
+    text-align: center;
+    background-color: lightgray;
+    font-size: 40px;
+    padding-top:10px;
+}
+.class{
+    padding:100px;
+}
+footer{
+    background-color: rgb(48, 41, 41);
+    text-align:center;
+    height: 50px;
+    color:aliceblue;
+    position:relative;
+    clear: both;
 }
 h1{
-    align-items: center;
+    position: -webkit-sticky;
+    font-size: 40px;
+    color: greenyellow;
+}
+/* Animation code */
+.landing-pg>h2{
+    font-size: 50px;
+}
+.js{
+    background-image: url(./images/js.jpg);
+}
+.start{
+    transition: width 2s, height 2s;
+    padding: 3px;
+    font-size: large;
+    border: 100px;
 }
