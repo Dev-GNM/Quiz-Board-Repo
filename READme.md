@@ -8,10 +8,10 @@ Geoffrey Njihia
 ### Project Description
 This is Pre-prep's week3 Independent project.It entails developing a quiz board for high school students finishing a javascript course.
 ## How it works
-* Select Get your Akan Name button on the landing page
-* Enter your date of birth
-* Select your gender
-* Alerts your Akan Name
+* 
+* 
+* 
+* 
 
 ## Setup Requirements
 * Git
@@ -26,26 +26,21 @@ This is Pre-prep's week3 Independent project.It entails developing a quiz board 
 ## Technologies used
 * HTML
 * CSS
-* Bootstrap
 * Javascript
 
 ## Setup/Installation Requirements
-* This is the live link to view my project <a href="https://jobkarani.github.io/Akan-project/">View Akan-Project.</a>
-
-## Screenshots
-<img src="assets/Screenshot from 2021-09-07 09-52-09.png" alt="Screenshot">
-<img src="assets/Screenshot from 2021-09-07 09-52-23.png" alt="Screenshot">
+* This is the live link to view my project <a href="">View Quiz Board-Project.</a>
 
 ## Known Bugs
 No known bugs as of know :) .
 
 ## Support and contact details
 If you have any suggestion or contributions about this project, you can reach out to me on:
-* Email: jobkarani084j@gmail.com
-* Phone: +254707367650
+* Email: geoffreynjihia15@gmail.com
+* Phone: +254718980609
 
 ## License
-Copyright <2021> < MoringaSchool >
+Copyright 2022 Geoffrey Njihia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
