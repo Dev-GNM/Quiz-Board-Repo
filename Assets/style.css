@@ -75,7 +75,7 @@ footer{
     width: 35%;
     padding: 50px;
 }
-input [type=submit]{
+.quiz>input [type=submit]{
     width:400px;
     background-color: #4caf50;
     color: white;
@@ -92,9 +92,16 @@ input [type=text]{
 }
 .quiz-questions{
     background-color: #97a597;
-    width: 50%;
+    width: 95%;
     border-radius: 40px;
     padding: 50px;
     margin: 30px;
-    align-items: center;
+}
+#read{
+    margin: 50px;
+}
+#form{
+    background-color: rgb(247, 207, 214);
+    border-radius: 20px;
+    margin: 50px;
 }
