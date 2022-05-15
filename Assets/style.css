@@ -61,3 +61,32 @@ footer{
     color: rgb(218, 19, 19);
     text-decoration: none;
 }
+.input{
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    height: 400p;
+    width: 35%;
+    padding: 50px;
+}
+input [type=submit]{
+    width:400px;
+    background-color: #4caf50;
+    color: white;
+    margin: 8px 0;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+input [type=text]{
+    padding:12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
