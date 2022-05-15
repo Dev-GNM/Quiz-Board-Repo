@@ -90,3 +90,11 @@ input [type=text]{
     margin: 8px 0;
     box-sizing: border-box;
 }
+.quiz-questions{
+    background-color: #97a597;
+    width: 50%;
+    border-radius: 40px;
+    padding: 50px;
+    margin: 30px;
+    align-items: center;
+}
