@@ -8,10 +8,10 @@ Geoffrey Njihia
 ### Project Description
 This is Pre-prep's week3 Independent project.It entails developing a quiz board for high school students finishing a javascript course.
 ## How it works
-* 
-* 
-* 
-* 
+* Open the website
+* Click the start quiz button
+* Read the questions and click the appropriate answer. 
+* Submit the answers to get the score. 
 
 ## Setup Requirements
 * Git
@@ -29,7 +29,7 @@ This is Pre-prep's week3 Independent project.It entails developing a quiz board 
 * Javascript
 
 ## Setup/Installation Requirements
-* This is the live link to view my project <a href="">View Quiz Board-Project.</a>
+* This is the live link to view my project <a href="https://developergeoff98.github.io/Quiz-Board-Repo/">View Quiz Board-Project.</a>
 
 ## Known Bugs
 No known bugs as of know :) .
