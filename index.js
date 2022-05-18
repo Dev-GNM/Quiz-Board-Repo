@@ -5,6 +5,9 @@ $(document).ready(function(){
         var firstName=$("input#yourName").val();
         var lastName=$("input#yourName").val();
     });
+    function submitQuiz(){
+        console.log('submitted')
+    }
 });
 
 //Business Logic 
@@ -54,6 +57,7 @@ s
     if (quiz10=="oth 0x and 0x"){
         correct ++;
     }
+    var calcscore=(correctScore('quiz1')+'quiz2')
 
 
 
