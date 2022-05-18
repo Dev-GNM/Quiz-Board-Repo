@@ -1,7 +1,13 @@
-//Business Logic
+//UI Logic
+$(document).ready(function(){
+    $(#form).click(function(){
+        alert("Fill in the required field")
+        var firstName=$("input#yourName").val();
+        var lastName=$("input#yourName").val();
+    });
+});
 
-
-//U.I Logic 
+//Business Logic 
 $(function () {
     $("#quiz").submit(function(event))
     event.preventDefault();
@@ -48,6 +54,7 @@ s
     if (quiz10=="oth 0x and 0x"){
         correct ++;
     }
+
 
 
 
