@@ -1,19 +1,22 @@
 //Business Logic
+
+
+//U.I Logic 
 $(function () {
     $("#quiz").submit(function(event))
     event.preventDefault();
     alert('You did not answer all the questions');
     var quiz1=$("input:radio[name=Q1]:checked").val();
     var quiz2=$("input:radio[name=Q2]:checked").val();
-    var quiz1=$("input:radio[name=Q3]:checked").val();
-    var quiz1=$("input:radio[name=Q4]:checked").val();
-    var quiz1=$("input:radio[name=Q5]:checked").val();
-    var quiz1=$("input:radio[name=Q6]:checked").val();
-    var quiz1=$("input:radio[name=Q7]:checked").val();
-    var quiz1=$("input:radio[name=Q8]:checked").val();
-    var quiz1=$("input:radio[name=Q9]:checked").val();
-    var quiz1=$("input:radio[name=Q10]:checked").val();
-
+    var quiz3=$("input:radio[name=Q3]:checked").val();
+    var quiz4=$("input:radio[name=Q4]:checked").val();
+    var quiz5=$("input:radio[name=Q5]:checked").val();
+    var quiz6=$("input:radio[name=Q6]:checked").val();
+    var quiz7=$("input:radio[name=Q7]:checked").val();
+    var quiz8=$("input:radio[name=Q8]:checked").val();
+    var quiz9=$("input:radio[name=Q9]:checked").val();
+    var quiz10=$("input:radio[name=Q10]:checked").val();
+s
     var correct=0;
     if (quiz1=="Script"){
         correct ++;

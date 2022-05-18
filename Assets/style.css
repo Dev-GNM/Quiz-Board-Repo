@@ -1,5 +1,4 @@
 *{
-    background-color: lightgray;
     box-sizing: border-box;
     margin:0;
 }
@@ -10,10 +9,11 @@ body{
 header{
     height: 80px;
     text-align: center;
-    background-color: lightgray;
+    background-color: rgb(48, 41, 41);
     font-size: 40px;
     padding:20px;
     position: sticky;
+    color: antiquewhite;
 }
 .welcome>h2{
     padding:30px;
@@ -23,7 +23,7 @@ footer{
     text-align:center;
     height: 70px;
     color:aliceblue;
-    position:fixed;
+    position:relative;
     bottom: 0%;
     width:100vw;
     padding-top:30px;   
@@ -56,6 +56,7 @@ footer{
     font-size: large;
     margin: 20px;
     color: white;
+    text-decoration: none;
 }
 .start:hover{
     color: rgb(218, 19, 19);
